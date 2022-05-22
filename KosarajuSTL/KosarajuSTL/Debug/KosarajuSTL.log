@@ -1,0 +1,5 @@
+﻿  KosarajuSTL.cpp
+D:\KosarajuC++\KosarajuSTL\KosarajuSTL\KosarajuSTL.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+D:\KosarajuC++\KosarajuSTL\KosarajuSTL\KosarajuSTL.cpp(74,21): warning C4018: '<': signed/unsigned mismatch
+D:\KosarajuC++\KosarajuSTL\KosarajuSTL\KosarajuSTL.cpp(180,22): warning C4018: '<': signed/unsigned mismatch
+  KosarajuSTL.vcxproj -> D:\KosarajuC++\KosarajuSTL\Debug\KosarajuSTL.exe

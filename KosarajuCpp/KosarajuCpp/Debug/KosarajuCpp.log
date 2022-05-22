@@ -1,0 +1,4 @@
+﻿  KosarajuCpp.cpp
+D:\KosarajuC++\KosarajuCpp\KosarajuCpp\KosarajuCpp.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+D:\KosarajuC++\KosarajuCpp\KosarajuCpp\KosarajuCpp.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+  KosarajuCpp.vcxproj -> D:\KosarajuC++\KosarajuCpp\Debug\KosarajuCpp.exe

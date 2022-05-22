@@ -1,0 +1,8 @@
+﻿  KosarajOMP.cpp
+  The contents of <execution> are available only with C++17 or later.
+D:\KosarajuC++\KosarajOMP\KosarajOMP\KosarajOMP.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+D:\KosarajuC++\KosarajOMP\KosarajOMP\KosarajOMP.cpp(72,21): warning C4018: '<': signed/unsigned mismatch
+D:\KosarajuC++\KosarajOMP\KosarajOMP\KosarajOMP.cpp(181,22): warning C4018: '<': signed/unsigned mismatch
+D:\KosarajuC++\KosarajOMP\KosarajOMP\KosarajOMP.cpp(188,22): warning C4018: '<': signed/unsigned mismatch
+D:\KosarajuC++\KosarajOMP\KosarajOMP\KosarajOMP.cpp(212,22): warning C4018: '<': signed/unsigned mismatch
+  KosarajOMP.vcxproj -> D:\KosarajuC++\KosarajOMP\Debug\KosarajOMP.exe
